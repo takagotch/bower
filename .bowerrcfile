@@ -1,0 +1,11 @@
+{
+  "directory": "app/components/",
+  "timeout": 120000,
+  "registry": {
+    "search": [
+      "http://localhost:8080",
+      "https://registry.bower.io"
+    ]
+  }
+}
+
